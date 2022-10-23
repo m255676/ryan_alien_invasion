@@ -1,2 +1,1 @@
-print("good morning ryan")
 
